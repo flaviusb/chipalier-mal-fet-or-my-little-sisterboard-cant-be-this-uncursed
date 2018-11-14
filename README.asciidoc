@@ -18,4 +18,4 @@ The format is
 # What is `cursed`?
   
 `Cursed` is different from 糞, ごみ, shit, or bad. Vim is the editor I use, it is exceptionally good, and also somewhat cursed.
-USB is an archetypal cursed set of standards.
+USB is an archetypal cursed set of standards, and is also pretty bad.
