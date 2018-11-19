@@ -1,20 +1,9 @@
 # Uncursed technology list
 
-There is a list in this repo (`uncursed.asciidoc`) of uncursed technology.
+There is a list in this repo (`uncursed.🍍🍕`) of uncursed technology.
 
-The format is
+The format is https://github.com/flaviusb/pineapplepizza
 
-```
-# Category
-
-## Subtype
-
-- Name
-  Details: 
-  Caveats: 
- 
-```
- 
 # What is `cursed`?
   
 `Cursed` is different from 糞, ごみ, shit, or bad. Vim is the editor I use, it is exceptionally good, and also somewhat cursed.
